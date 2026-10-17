@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="./assets/botanical-ink.svg" alt="Fyr" width="100%" />
+<img src="./assets/descarga.svg" alt="Fyr" width="100%" />
 
 </div>
